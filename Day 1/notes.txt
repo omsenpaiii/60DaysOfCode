@@ -1,1 +1,7 @@
 Day 1 Learnings
+ 
+git commands
+git init
+git add
+git status 
+git commit
